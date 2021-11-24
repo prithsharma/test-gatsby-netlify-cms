@@ -19,7 +19,7 @@ collections:
     create: true
     nested:
       depth: 100
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - {
           label: "Template Key",
