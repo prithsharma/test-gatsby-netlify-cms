@@ -17,8 +17,8 @@ collections:
     label: "Docs"
     folder: "src/pages/blog"
     create: true
-    nested:
-      depth: 100
+#     nested:
+#       depth: 100
     slug: "{{slug}}"
     fields:
       - {
