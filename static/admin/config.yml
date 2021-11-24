@@ -13,7 +13,7 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "doc"
+  - name: "blog"
     label: "Docs"
     folder: "src/pages/blog"
     create: true
