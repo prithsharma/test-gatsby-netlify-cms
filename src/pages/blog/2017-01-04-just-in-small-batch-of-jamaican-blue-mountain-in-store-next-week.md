@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Migrating to DevRev
 date: 2017-01-04T15:04:10.000Z
-description: We’re proud to announce that we’ll be offering a small batch of
-  Jamaica Blue Mountain coffee beans in our store next week.
+description: We’re proud to announce that you can now seamlessly migrate from
+  your existing work-management tool to DevRev.
 featuredpost: true
 tags:
   - jamaica
