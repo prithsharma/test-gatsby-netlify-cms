@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Getting Started with DevRev Beta
+title: "[Update] Getting Started with DevRev Beta"
 date: 2017-01-04T15:04:10.000Z
 description: Lorem Ipsum is simply a dummy text of the printing and typesetting
   industry. Lorem Ipsum has been the industry's standard dummy text ever since
